@@ -20,7 +20,7 @@ import java.io.*;
 import java.util.Scanner;
 
 /**
- * Created by php on 03.09.17.
+ * Created by skiddev on 03.09.17.
  */
 public class Main extends Application{
 
